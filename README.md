@@ -24,7 +24,7 @@ Player A starts by clicking on two cards to turn them around.
 If both cards have the same image, Player A will get a point. 
 If both cards are different, the turn will change to Player B. Now its Player B's turn to reveal two cards.
 
-Each time a player reveals two cards that are identical, they will stay revealed and the player will be granted with a point.
+Each time a player reveals two cards that are identical, they will stay revealed and the player can continue flipping.
 The first player to reach 5 points wins.
 
 ### Credit
