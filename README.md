@@ -1,7 +1,7 @@
 # Memory-Game
 2-Player memory game made in java using threads and sockets. Can be played online or local. 
 
-To run this on your own computer, do as follows.
+To run this on your own computer, do the following.
 1. Run Server/src/servidor_memoria.java
 2. Run two instances of Cliente/src/gui/PlayGame.java
   2.1. Add your name in the "Nombre" field of each instance and click on "Conectar"
